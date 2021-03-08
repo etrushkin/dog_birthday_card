@@ -1,7 +1,7 @@
 # Dog birthday card #
 
-Quick and dirty code for a dog-like birthday card. It plays Happy bithday song and 
-swings it's tail.
+Quick and dirty code for a dog-like birthday card. It plays Happy birthday song and 
+swings its tail.
 
 Tail base has a hinge. The tail's actuator is a small phone speaker, which membrane is
 glued to the tail near to the hinge. The base of the speaker is glued to the card.
